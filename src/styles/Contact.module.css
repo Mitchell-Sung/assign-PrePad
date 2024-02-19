@@ -1,0 +1,10 @@
+.contact {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+.tooltipContainer {
+    display: flex;
+    justify-content: flex-end;
+}
